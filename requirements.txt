@@ -1,0 +1,13 @@
+aiohttp[speedups]
+cffi
+pydantic
+fastapi
+gunicorn
+numpy
+orjson
+uvicorn[standard]
+slowapi
+uvloop
+pillow
+python-multipart
+git+https://github.com/animetosho/python-fpnge
