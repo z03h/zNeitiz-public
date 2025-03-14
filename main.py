@@ -100,7 +100,8 @@ def self_test(r: Request):
     <head>
         <meta property="og:title" content="zNeitiz" />
         <meta property="og:type" content="website" />
-        <meta name="theme-color" content="#2f3136" />
+        <meta name="theme-color" content="#2d8afc" />
+        <meta property="og:description" content="\U0001f499 I love you \U0001f499" />
         <meta property="og:site_name" content="zNeitiz Image API" />
         <meta content="/static/icon.png" property="og:image" />
         <title>\U0001f499 I love you \U0001f499</title>
